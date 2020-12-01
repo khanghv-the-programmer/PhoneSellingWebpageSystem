@@ -1,0 +1,3 @@
+Kính gửi thầy Hồ Hoàn Kiếm,
+Nhóm em quản lí tiến độ các bạn làm bằng Jira, nên tụi em tạo Backlog trễ, nhưng trong Jira bọn em có ghi ngày tạo và lần update cuối, mong thầy accept cách quản lí project của nhóm em. Em cảm ơn thầy.
+Link Jira: https://khanghv.atlassian.net/jira/software/projects/PRN/boards/3
